@@ -1,1 +1,1 @@
-web: gunicorn Recipiemanager.wsgi --log-file -
+web: gunicorn recipiemanager.wsgi --log-file -
