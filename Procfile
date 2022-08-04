@@ -1,0 +1,1 @@
+web: gunicorn Recipiemanager.wsgi --log-file -
